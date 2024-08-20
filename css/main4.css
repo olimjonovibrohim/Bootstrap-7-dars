@@ -1,0 +1,43 @@
+.no{
+    color: blue;
+}
+.lik{
+    color: black;
+}
+.kom1{
+    position: absolute;
+    margin-left: 180px;
+    line-height: 15px;
+}
+.kom2{
+    position: absolute;
+    margin-left: 180px;
+    line-height: 15px;
+    margin-top: 20px;
+}
+.kom3{
+    position: absolute;
+    margin-left: 180px;
+    line-height: 15px;
+    margin-top: 40px;
+}
+.lop{
+    border: 3px solid gray;
+}
+.hona{
+    border: 1px solid lightgrey;
+    width: 170px;
+    border-radius: 5px;
+    margin-left: 230px;
+}
+.hona1{
+    margin-left: -25px;
+}
+.hona2{
+    margin-left: -25px;
+    margin-top: -20px;
+}
+.fgh{
+    margin-left: 130px;
+    margin-top: -357px;
+}

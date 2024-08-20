@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+li{
+    background-color: green;
+}
+.rg{
+    text-decoration: none;
+    color: white;
+}
+.rg1{
+    text-decoration: none;
+    color: black;
+}
+h3{
+    color: white;
+}
